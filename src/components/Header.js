@@ -1,12 +1,13 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { GiSettingsKnobs } from 'react-icons/gi';
+import logo from '../assets/images/logo.svg';
 
 const Header = () => {
     return (
         <div className="flex items-center justify-between p-4 bg-white shadow-md">
             <div className="flex items-center">
-                <h1 className="text-xl font-bold text-gray-700">Aircall</h1>
+            <img src={logo} alt="Logo" className="w-24 h-10 mr-2" />
             </div>
             <div className="flex items-center space-x-4">
                 <NavLink
