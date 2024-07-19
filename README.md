@@ -1,5 +1,8 @@
 Live Link: https://74ea78a5.vercel.app/
 
+# Archive Individual
+In order to archive or unarchive please swipe left on the card
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
